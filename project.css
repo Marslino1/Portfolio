@@ -1,0 +1,419 @@
+@media screen {
+    
+}
+body{
+    background-color: #DCDCDC;
+}
+.i1{
+    position: relative;
+    left: -1600px;
+    top: 200px;
+    border-radius: 30px;
+}
+.m1{
+    position: relative;
+    left: 1000px;
+    bottom: 2120px;
+    font-size:500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 10px 10px 30px rgb(229, 255, 0);
+}
+.x1{
+    position: relative;
+    left: 1005px;
+    bottom: 2810px;
+    padding: 205px;
+    font-size:430px;
+    text-shadow: 10px 10px 30px rgb(229, 255, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    background-color: #808080;
+    position: fixed;
+    z-index: 5;
+    margin: -19px;
+    padding-bottom: 100px;
+    border-radius: 20px;
+}
+.p1{
+    position: relative;
+    top: -110px;
+    left: 250px;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5px;
+    color: #FFFFFF;
+}   
+.d1{
+    position: relative;
+    background-color: #f8f8ff;
+    height: 2400px;
+    width: 5700px;
+    top: 250px;
+}
+.d1:hover{
+    box-shadow: 10px 10px 50px 50px #696969;
+}
+.p3{
+    position: relative;
+    top: -3850px;
+    left: 970px;
+    font-size: 150px;
+}
+
+.d2{  position: relative;
+    background-color: #c81717;
+    height: 2400px;
+    width: 5700px;
+    right: -180PX;
+    top: -490px;
+}
+.m2{
+    padding-top: 300px;
+    font-size: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.m2{
+    position: relative;
+    color: #dbb4b4;
+}
+label{
+    position: relative;
+    right: -1150PX;
+    top: 100PX;
+    font-size: 200px;
+}
+input{
+    position: relative;
+    border-radius: 50px;
+    right: -1850PX;
+    top: -85PX;
+    font-size: 150px;
+}
+input:hover{
+    background-color: #dbb4b4;
+}
+.s1{
+    Position: relative;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(247, 71, 71);
+    border-radius: 60px;
+    transition: all 0.5;
+    left: 5090px;
+    top: -80PX;
+}
+header{
+    width: 100%;
+    min-width: 600px;
+    height: 5vh;
+}
+header a{
+    transform: scale(1.5);
+    margin: auto;
+    text-transform: capitalize;
+    color: #0000ff;
+    text-decoration: none;
+    position: relative;
+    left: 3400px;
+    bottom: 400px;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header a::before{
+    content: "";
+    position: absolute;
+    left: 0px;
+    height: 10px;
+    width: 0%;
+    background-color: #f5f5f5;
+    bottom: -5px;
+    transition: 0.5s;
+}
+header a:hover{
+    color: #ffffff;
+    text-shadow: 10px 10px 30px #FFFF00;
+}
+header a:hover::before{
+    width: 100%;
+    box-shadow: 10px 10px 30px #FFFF00;
+}
+.a2{
+    position: relative;
+    left: 3600px;
+    bottom: 400px;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.a3{
+    position: relative;
+    left: 3800px;
+    bottom: 400px;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a4{
+    position: relative;
+    left: 4000px;
+    bottom: 400px;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+    color: #c81717;
+}
+.d3{
+    position: relative;
+    background-color: rgb(59, 73, 74);
+    height: 6500px;
+    width: 5700px;
+    right: -180PX;
+    top: -310px;
+}
+.d3:hover{
+    box-shadow: 10px 10px 50px 50px rgb(0, 30, 255);
+}
+.d3 p{
+    color: #f8f8ff;
+} 
+.d3 p:hover{
+    text-shadow: 10px 10px 50px rgb(255, 221, 0);
+}
+.p4{
+    position: relative;
+    top: 190PX;
+    right: -2300PX;
+    font-size: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p5{
+    position: relative;
+    bottom: 100PX;
+    left: 800px;
+    font-size: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p6{
+    position: relative;
+    bottom: 2238PX;
+    left: 3550px;
+    font-size: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p7{
+    position: relative;
+    bottom: 2360PX;
+    left: 800px;
+    font-size: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p8{
+    position: relative;
+    bottom: 4499px;
+    left: 3550px;
+    font-size: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p9{
+    position: relative;
+    bottom: 4600PX;
+    left: 500px;
+    font-size: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p10{
+    position: relative;
+    bottom: 6739PX;
+    left: 3300px;
+    font-size: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img5{
+    position: relative;
+    bottom: 250PX;
+    left: 200px;
+    border-radius: 30px;
+    filter: opacity(0.5);
+}
+.img6{
+    position: relative;
+    bottom: 2386PX;
+    left: 3000px;
+    border-radius: 30px;
+    filter: opacity(0.5);
+}
+.img7{
+    position: relative;
+    bottom: 2500PX;
+    left: 200px;
+    border-radius: 30px;
+    filter: opacity(0.5);
+}
+.img8{
+    position: relative;
+    bottom: 4639PX;
+    left: 3000px;
+    border-radius: 30px;
+    filter: opacity(0.5);
+}
+.img9{
+    position: relative;
+    bottom: 4750PX;
+    left: 200px;
+    border-radius: 30px;
+    filter: opacity(0.5);
+}
+.img10{
+    position: relative;
+    bottom: 6889PX;
+    left: 3000px;
+    border-radius: 30px;
+    filter: opacity(0.5);
+}
+.img5:hover{
+    filter: none;
+    box-shadow: 5px 5px 20px 20px rgb(255, 255, 255);
+}
+.img6:hover{
+    filter: none;
+    box-shadow: 5px 5px 20px 20px rgb(255, 255, 255);
+}
+.img7:hover{
+    filter: none;
+    box-shadow: 5px 5px 20px 20px rgb(255, 255, 255);
+}
+.img8:hover{
+    filter: none;
+    box-shadow: 5px 5px 20px 20px rgb(255, 255, 255);
+}
+.img9:hover{
+    filter: none;
+    box-shadow: 5px 5px 20px 20px rgb(255, 255, 255);
+}
+.img10:hover{
+    filter: none;
+    box-shadow: 5px 5px 20px 20px rgb(255, 255, 255);
+}
+.d4{
+    position: relative;
+    background-color: #00ffff;
+    height: 2000px;
+    width: 5700px;
+    right: -180PX;
+    top: -30px;
+}
+.d4:hover{
+    box-shadow: 5px 5px 20px 20px #ff1493;
+}
+.p11{
+    position: relative;
+    top: 180PX;
+    right: -2160PX;
+    font-size: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ff1493;
+}
+.p11:hover{
+    text-shadow: 10px 10px 50px #7fff00;
+
+}
+.p12{
+    position: relative;
+    top: 50px;
+    right: -200PX;
+    font-size: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c32479;
+}
+.p13{
+    position: relative;
+    top: -250PX;
+    right: -725PX;
+    font-size: 150px;
+    font-family: 'Courier New', Courier, monospace;   
+    color: #ff95ce;
+}
+.p14{
+    position: relative;
+    top: -590PX;
+    right: -3050PX;
+    font-size: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c32479;
+}
+.p15{
+    position: relative;
+    top: -890PX;
+    right: -3720PX;
+    font-size: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ff95ce;
+}
+.p16{
+    position: relative;
+    top: -400PX;
+    right: -560PX;
+    font-size: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c32479;
+}
+.p17{
+    position: relative;
+    top: -673PX;
+    right: -1160PX;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ff95ce;
+}
+.p18{
+    position: relative;
+    top: -1400PX;
+    right: -200PX;
+    font-size: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c32479;
+}
+.p19{
+    position: relative;
+    top: -1700PX;
+    right: -715px;
+    font-size: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ff95ce;
+}
+.p20{ 
+    position: relative;
+    top: -2041px;
+    right: -3061px;
+    font-size: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c32479;
+}
+.p21{
+    position: relative;
+    top: -2310px;
+    right: -3700px;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ff95ce;
+}
+.d4 p:hover{
+    text-shadow: 10px 10px 50px #22ff00;
+}
+.m2{
+    text-shadow: 10px 10px 50px rgb(47, 0, 255);
+}
+.ma{
+    position: relative;
+    left: 2350px;
+    bottom: 2975px;
+}
+.p1:hover{
+    text-shadow: 10px 10px 20px rgb(255, 234, 0);
+}
+.d2:hover{
+    box-shadow: 10px 10px 30px 30px rgb(21, 255, 0);
+}
